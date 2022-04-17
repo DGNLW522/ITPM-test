@@ -85,7 +85,7 @@ export default class AddMadicine extends Component {
       <div className='addMedicinePage'>
         <br />
         <div className='container' id="addMedicineForm">
-          <h3 className="addMedicineTitle">Add New Medicine</h3>
+          <h3 className="addMedicineTitle">Add New Customer</h3>
           <br />
           <form onSubmit={this.onSubmit}>
           <div className="form-group"> 
@@ -149,7 +149,9 @@ export default class AddMadicine extends Component {
                 onChange={this.onChangeMobileno}
                 />
           </div> 
+          <br></br>
           <div className="form-group">
+            
             <input type="Submit" value="Create customer" className="btn btn-primary" onClick={this.getTotal} />
           </div>
         </form>

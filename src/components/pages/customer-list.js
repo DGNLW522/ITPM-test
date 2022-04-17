@@ -64,7 +64,7 @@ export default class ViewMadicines extends Component {
                 <button className="searchMadicineBtn"><Link className="toAddPage" to="/searchCustomer" >Search Customer</Link></button> 
                 <button className="searchMadicineBtn"><Link className="toAddPage" to="/create" >Add Customer</Link></button>   
                 <button className="searchMadicineBtn"><Link className="toAddPage" to="/MadicinesReport" >Customers Report</Link></button>   
-                    <h3 className="viewMedicineTitle">MEDICINES LIST</h3>
+                    <h3 className="viewMedicineTitle">CUSTOMERS LIST</h3>
                     <br />
                     <table className="table">
                         <thead className="thead-light">
