@@ -1,0 +1,34 @@
+#Addform{
+  max-width: 800px;
+  padding: 16px;
+  background-color: #DCDCDC; 
+  opacity: 0.8;
+}
+
+.Addappoi{
+    font-family:Arial;
+	font-weight: bold;
+	color:#000080;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#ba1{
+    background-color: #8B008B; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.AddChnnelpg{
+    background-image: url('https://www.achievers.com/blog/wp-content/uploads/2019/07/07_19_19.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+}

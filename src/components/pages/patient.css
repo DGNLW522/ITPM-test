@@ -1,0 +1,222 @@
+.patient{
+    background-color: #11105e;
+    background-size: cover;
+}
+
+
+.AdmitPatient{
+    background: url("https://i.pinimg.com/originals/1a/ee/5c/1aee5c344846f449350feae457ea350e.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-groupPatient{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-addselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+/*.addPatientform{
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 500px;  
+}*/
+
+#badd{
+    background-color: #071a52;
+    border: none;
+    color: white;
+    position: relative;
+    left:150px;
+    right:150px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.admitPatientTitle{
+    display: flex;
+    height: 10vh;
+    color: #033813;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.EditPatient{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  
+}
+
+
+.form-edit{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-editselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+#bedit{
+    background-color: #002651;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.PatientList{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+
+.ChargeCalculate{
+    background: url("https://www.corhealthontario.ca/img/COVID-19-Landing-Page-Banner.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+  
+}
+
+.form-calculation{
+    width: 80%;
+    background: transparent;
+    background: #91867980;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+.patientCharge{
+    display: flex;
+    height: 10vh;
+    color: #430d27;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+#bchargecal{
+    background-color: #713045;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+
+#bdatabase{
+    background-color: #582233;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.form-btn{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+#table {
+    border-collapse: collapse;
+    width: 500%;
+}
+  
+#table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #70acb1;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #a8e0e1;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color:#122d42;
+}
+
+#linkButton{
+    color: #d72323;
+}

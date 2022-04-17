@@ -1,0 +1,206 @@
+.lab{
+    background-color: #11105e;
+    background-size: cover;
+}
+
+.form-labgroup1{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(23, 126, 129, 0.5);
+  
+}
+
+.form-labgroup2{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(64, 192, 243, 0.5);
+  
+}
+
+.form-labgroup3{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(17, 88, 90, 0.5);
+  
+}
+
+.labform{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 500px;
+}
+
+/*p{
+    font-size: 30px;
+}*/
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+  
+table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #6fc2d0;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #acdbdf;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color: rgb(226, 70, 43);
+}
+
+.AddLab{
+    background-image: url('https://encycloblog.com/wp-content/uploads/2020/11/research-have-been-made.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+.viewcalCost{
+    background-image:url('https://t3.ftcdn.net/jpg/03/15/66/96/360_F_315669632_zpQL6tY63tJEInUk64OBSq05fglGaFVP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+.LabView{
+    background-image: url('https://t3.ftcdn.net/jpg/03/15/66/96/360_F_315669632_zpQL6tY63tJEInUk64OBSq05fglGaFVP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    
+}
+
+.calCost{
+    background-image: url('https://econsultontario.ca/wp-content/uploads/2019/11/image001-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    
+}
+
+.EditLab{
+    background-image: url('https://www.lifepoint.com/wp-content/uploads/2021/01/affordable-interface-outreach.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+#btnlab1{
+    background-color: rgb(17, 35, 204);
+    border: none;
+    color: rgb(223, 223, 233);
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+}
+
+#btnlab2{
+    background-color:red;
+    border: none;
+    color: rgb(223, 223, 233);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 700px;
+}
+#btnlab7{
+    background-color:#1f4287;
+    border: none;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#btnlab3{
+    background-color:#1e2a78;
+    border: none;
+    color: rgb(223, 223, 233);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 700px;
+}
+
+#buttonlab
+    {
+    color: #d72323;
+}
+
+.addlabTitle{
+    color: #303a52;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+    display:flex;
+    height: 10vh;
+}
+
+.viewlabTital{
+    color: rgb(15, 18, 175);
+    font-style: oblique;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+    display: flex;
+    height: 10vh;
+}
